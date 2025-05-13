@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "732997295625",
+    "firebase_url": "https://glowmeet-b1e41-default-rtdb.firebaseio.com",
+    "project_id": "glowmeet-b1e41",
+    "storage_bucket": "glowmeet-b1e41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732997295625:android:9ea45e988d888064a362d8",
+        "android_client_info": {
+          "package_name": "com.example.eventflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-ZPQJVp7sLfa3XU5IwaVpWmTpU4yZvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732997295625:android:33a3f42f856e36f2a362d8",
+        "android_client_info": {
+          "package_name": "com.example.glowmeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-ZPQJVp7sLfa3XU5IwaVpWmTpU4yZvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732997295625:android:36d42e0a0e6a4820a362d8",
+        "android_client_info": {
+          "package_name": "com.kelvin.glowmeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-ZPQJVp7sLfa3XU5IwaVpWmTpU4yZvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
